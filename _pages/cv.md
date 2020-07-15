@@ -28,7 +28,7 @@ Experience
   * Research in nanophotonics and semiconductor physics
 
 
-Publications
+Recent Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
